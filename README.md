@@ -25,7 +25,8 @@ A full-stack web application that enables users to pre-order food from campus ca
 
 ## 📸 Screenshots
 
-*(Add your application screenshots here)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1cea085-d379-456f-aa6f-fee222b8136a" />
+
 
 ---
 
